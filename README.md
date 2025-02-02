@@ -5,5 +5,7 @@ Hello everyone This is my resolution of Prof. J. Gallaugher's SwiftUI Challenge:
 
 
 I love your challenges Prof. G!
+
 by Christian Manzaraz: 
+
 Please, visit [My Personal Website](https://manzaraz.com.ar) and [My LinkedIn Profile](https://www.linkedin.com/in/manzaraz/)
